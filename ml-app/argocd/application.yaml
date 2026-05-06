@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/ml-app
+    repoURL: https://github.com/chetanlande21/ml-app
     targetRevision: HEAD
     path: helm/ml-app
     helm:
